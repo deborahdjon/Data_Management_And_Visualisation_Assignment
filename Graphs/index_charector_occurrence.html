@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+    /* set the CSS */
+
+    .line {
+        fill: none;
+        stroke: steelblue;
+        stroke-width: 2px;
+    }
+</style>
+<script>
+    var Heading = "Charactor Occurrences Count";
+    var Y_Axis_Label = "% of Occurences";
+    var X_Axis_Label = "Year";
+    var DataFileName = "character_occurrence_data_groupped.csv";
+    function getSubgroups() {
+        return ['character_occourence_percentage_f', 'character_occourence_percentage_m'];
+    }
+</script>
+
+<body>
+
+    <!-- load the d3.js library -->
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script src ="graph.js"> </script>
+   
+    <div id="my_dataviz"></div>
+</body>

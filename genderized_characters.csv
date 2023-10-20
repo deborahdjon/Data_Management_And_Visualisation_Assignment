@@ -1,0 +1,682 @@
+character_id,movie_id,character_name,occourences,is_top_10,gender
+200000,100000,kat,218,True,female
+200001,100000,patrick,184,True,male
+200002,100000,bianca,131,True,female
+200003,100000,cameron,104,True,male
+200004,100000,michael,89,True,male
+200005,100000,joey,62,True,male
+200006,100000,walter,54,True,male
+200007,100000,mandella,40,True,female
+200008,100000,miss perky,24,True,unknown
+200009,100001,music:,2,True,unknown
+200010,100001,music stops,2,True,unknown
+200011,100001,music starts,2,True,unknown
+200012,100001,writers,1,True,male
+200013,100001,cut from black,1,True,unknown
+200014,100001,genres,1,True,male
+200015,100001,music restarts,1,True,unknown
+200016,100001,sfx: thunder,1,True,unknown
+200017,100002,jacob,141,True,male
+200018,100002,malee,101,True,female
+200019,100002,leonard,84,True,male
+200020,100002,kenny,58,True,male
+200021,100002,grace,52,True,female
+200022,100002,gus,51,True,male
+200023,100002,ashley,36,True,female
+200024,100002,yacco,35,True,male
+200025,100002,rudy,34,True,male
+200026,100003,cole,220,True,male
+200027,100003,railly,176,True,male
+200028,100003,jeffrey,62,True,male
+200029,100003,astrophysicist,22,True,unknown
+200030,100003,fale,19,True,male
+200031,100003,dr. fletcher,14,True,unknown
+200032,100003,botanist,13,True,male
+200033,100003,microbiologist,12,True,male
+200034,100003,dr. mason,12,True,unknown
+200035,100004,solomon,183,True,male
+200036,100004,(continued),110,True,unknown
+200037,100004,epps,82,True,male
+200038,100004,ford,28,True,male
+200039,100004,bass,27,True,male
+200040,100004,brown,25,True,male
+200041,100004,mistress epps,23,True,unknown
+200042,100004,celeste,22,True,female
+200043,100004,epps (cont'd),22,True,unknown
+200044,100005,cut to:,236,True,unknown
+200045,100005,aron,97,True,male
+200046,100005,aron (cont'd),55,True,unknown
+200047,100005,int. canyon. day.,22,True,unknown
+200048,100005,kristi,20,True,female
+200049,100005,megan,20,True,female
+200050,100005,int. canyon. night.,9,True,unknown
+200051,100005,ext. desert. day.,9,True,unknown
+200052,100005,rana,9,True,female
+200053,100006,columbus,248,True,male
+200054,100006,cut to:,51,True,unknown
+200055,100006,sanchez,45,True,male
+200056,100006,marchena,35,True,male
+200057,100006,isabel,31,True,female
+200058,100006,pinzon,29,True,male
+200059,100006,arojaz,23,True,unknown
+200060,100006,fernando,22,True,male
+200061,100006,moxica,19,True,male
+200062,100007,jordy,163,True,male
+200063,100007,eddie,146,True,male
+200064,100007,emil,120,True,male
+200065,100007,nicolette,50,True,female
+200066,100007,oleg,49,True,male
+200067,100007,daphne,39,True,female
+200068,100007,hawkins,37,True,male
+200069,100007,korfin,32,True,unknown
+200070,100007,leon,31,True,male
+200071,100008,mike,252,True,male
+200072,100008,ed,112,True,male
+200073,100008,alex,70,True,male
+200074,100008,scarlet,61,True,female
+200075,100008,maggie,41,True,female
+200076,100008,julie,32,True,female
+200077,100008,mike (cont'd),30,True,unknown
+200078,100008,stan,23,True,male
+200079,100008,samantha,18,True,female
+200080,100009,genres,1,True,male
+200081,100009,writers,1,True,male
+200082,100010,continued,95,True,female
+200083,100010,bowman,82,True,male
+200084,100010,floyd,79,True,male
+200085,100010,poole,68,True,male
+200086,100010,hal,64,True,male
+200087,100010,pilot,19,True,male
+200088,100010,narrator,14,True,male
+200089,100010,child,13,True,male
+200090,100010,smyslov,13,True,male
+200091,100011,jackson,105,True,male
+200092,100011,adrian,80,True,male
+200093,100011,kate,46,True,female
+200094,100011,anheuser,40,True,unknown
+200095,100011,gordon,31,True,male
+200096,100011,noah,29,True,male
+200097,100011,laura,23,True,female
+200098,100011,yuri,22,True,male
+200099,100011,adrian (cont'd),21,True,unknown
+200100,100012,monty,201,True,male
+200101,100012,jakob,105,True,male
+200102,100012,(continued),96,True,unknown
+200103,100012,slattery,87,True,male
+200104,100012,naturelle,52,True,female
+200105,100012,mary,50,True,female
+200106,100012,kostya,47,True,male
+200107,100012,monty (cont'd),37,True,unknown
+200108,100012,mr. brogan,27,True,unknown
+200109,100013,selena,125,True,female
+200110,100013,jim,121,True,male
+200111,100013,frank,69,True,male
+200112,100013,henry,46,True,male
+200113,100013,hannah,36,True,female
+200114,100013,mitchell,25,True,male
+200115,100013,mark,16,True,male
+200116,100013,jones,16,True,male
+200117,100013,scientist,13,True,male
+200118,100014,will,303,True,male
+200119,100014,chet,196,True,male
+200120,100014,dwayne,184,True,male
+200121,100014,jay,61,True,male
+200122,100014,kate,38,True,female
+200123,100014,vaughn,28,True,male
+200124,100014,juicy,17,True,female
+200125,100014,(beat),16,True,unknown
+200126,100014,major,16,True,male
+200127,100015,rickey,178,True,male
+200128,100015,jack,173,True,male
+200129,100015,cut to:,133,True,unknown
+200130,100015,rachel,94,True,female
+200131,100015,smith,57,True,male
+200132,100015,durocher,30,True,female
+200133,100015,reese,25,True,male
+200134,100015,parrott,24,True,unknown
+200135,100015,walker,22,True,male
+200136,100016,archie,146,True,male
+200137,100016,mal,122,True,male
+200138,100016,omp,111,True,male
+200139,100016,meredith,94,True,female
+200140,100016,colin,94,True,male
+200141,100016,cut to,47,True,unknown
+200142,100016,liz,40,True,female
+200143,100016,colin (cont'd),15,True,unknown
+200144,100016,meredith (cont'd),13,True,unknown
+200145,100017,cates,336,True,female
+200146,100017,hammond,234,True,male
+200147,100017,elaine,72,True,female
+200148,100017,ganz,67,True,male
+200149,100017,transition.,33,True,unknown
+200150,100017,luther,27,True,male
+200151,100017,haden,24,True,male
+200152,100017,kehoe,21,True,male
+200153,100017,billy,19,True,male
+200154,100018,adam,329,True,male
+200155,100018,katie,85,True,female
+200156,100018,seth,77,True,male
+200157,100018,rachel,69,True,female
+200158,100018,edith,45,True,female
+200159,100018,adam (cont'd),35,True,unknown
+200160,100018,seth (cont'd),18,True,unknown
+200161,100018,phil,15,True,male
+200162,100018,(beat),14,True,unknown
+200163,100019,tom,406,True,male
+200164,100019,summer,223,True,female
+200165,100019,mckenzie,74,True,male
+200166,100019,paul,47,True,male
+200167,100019,rachel,42,True,female
+200168,100019,(beat),40,True,unknown
+200169,100019,tom (v.o.),35,True,unknown
+200170,100019,girl,23,True,female
+200171,100019,narrator,18,True,male
+200172,100021,welles,338,True,male
+200173,100021,max,58,True,male
+200174,100021,eddie,53,True,male
+200175,100021,dino velvet,52,True,unknown
+200176,100021,mrs christian,39,True,unknown
+200177,100021,amy,38,True,female
+200178,100021,mrs mathews,37,True,unknown
+200179,100021,longdale,32,True,unknown
+200180,100021,mary's voice,21,True,unknown
+200181,100022,9,41,True,unknown
+200182,100022,1,28,True,unknown
+200183,100022,5,22,True,unknown
+200184,100022,(cont'd),18,True,unknown
+200185,100022,7,17,True,unknown
+200186,100022,9 (cont'd),12,True,unknown
+200187,100022,6,10,True,unknown
+200188,100022,2 (cont'd),8,True,unknown
+200189,100022,1 (cont'd),7,True,unknown
+200190,100023,kaffee,556,True,male
+200191,100023,jo,209,True,male
+200192,100023,ross,129,True,male
+200193,100023,jessep,107,True,male
+200194,100023,sam,87,True,male
+200195,100023,cut to:,77,True,unknown
+200196,100023,dawson,54,True,male
+200197,100023,randolph,49,True,male
+200198,100023,kendrick,35,True,male
+200199,100024,abel,405,True,male
+200200,100024,anna,153,True,female
+200201,100024,andrew walsh,126,True,unknown
+200202,100024,a.d.a. lawrence,62,True,unknown
+200203,100024,abel (cont'd),57,True,unknown
+200204,100024,julian,41,True,male
+200205,100024,peter forente,37,True,unknown
+200206,100024,bill o'leary,36,True,unknown
+200207,100024,arnold kline,22,True,unknown
+200208,100025,billy,156,True,male
+200209,100025,officer pi sit,46,True,unknown
+200210,100025,nan,42,True,female
+200211,100025,cut to:,33,True,unknown
+200212,100025,jom,28,True,male
+200213,100025,kiaw,14,True,female
+200214,100025,dr. adi,12,True,unknown
+200215,100025,elyias,10,True,male
+200216,100025,tiffany,9,True,female
+200217,100026,lee (signing),13,True,unknown
+200218,100026,lee,11,True,male
+200219,100026,lee (signing) (cont'd),10,True,unknown
+200220,100026,evelyn (cont'd),9,True,unknown
+200221,100026,marcus (signing),8,True,unknown
+200222,100026,evelyn,8,True,female
+200223,100026,regan (signing),7,True,unknown
+200224,100026,black,4,True,male
+200225,100026,daughter (signing),3,True,unknown
+200226,100027,bob arctor,231,True,unknown
+200227,100027,jim barris,127,True,unknown
+200228,100027,continued:,114,True,unknown
+200229,100027,fred,100,True,male
+200230,100027,ernie luckman,84,True,unknown
+200231,100027,donna hawthorne,79,True,unknown
+200232,100027,charles freck,74,True,unknown
+200233,100027,hank,63,True,male
+200234,100027,medical technician #1,23,True,unknown
+200235,100028,larry,330,True,male
+200236,100028,danny,48,True,male
+200237,100028,don,38,True,male
+200238,100028,arthur,33,True,male
+200239,100028,voice,30,True,male
+200240,100028,sy,27,True,male
+200241,100028,sarah,27,True,female
+200242,100028,judy,24,True,female
+200243,100028,judith,22,True,female
+200244,100030,nico,207,True,male
+200245,100030,jackson,49,True,male
+200246,100030,zagon,40,True,male
+200247,100030,fox,38,True,male
+200248,100030,cut to:,19,True,unknown
+200249,100030,lukich,19,True,male
+200250,100030,branca,16,True,female
+200251,100030,father genarro,15,True,unknown
+200252,100030,watanabe,12,True,male
+200253,100031,luther,108,True,male
+200254,100031,seth,98,True,male
+200255,100031,kate,55,True,female
+200256,100031,richmond,40,True,male
+200257,100031,russell,39,True,male
+200258,100031,walter sullivan,34,True,unknown
+200259,100031,burton,31,True,male
+200260,100031,cut to:,23,True,unknown
+200261,100031,collin,15,True,male
+200262,100032,bud,179,True,male
+200263,100032,lindsey,163,True,female
+200264,100032,hippy,55,True,male
+200265,100032,coffey,46,True,male
+200266,100032,catfish,40,True,male
+200267,100032,cut to:,38,True,unknown
+200268,100032,one night,32,True,unknown
+200269,100032,monk,28,True,male
+200270,100032,jammer,15,True,male
+200271,100033,genres,1,True,male
+200272,100033,writers,1,True,male
+200273,100034,kaufman,242,True,male
+200274,100034,orlean,99,True,male
+200275,100034,laroche,92,True,male
+200276,100034,continued:,77,True,unknown
+200277,100034,donald,77,True,male
+200278,100034,kaufman (v.o.),33,True,unknown
+200279,100034,alice,23,True,female
+200280,100034,mckee,22,True,male
+200281,100034,orlean (v.o.),21,True,unknown
+200282,100035,gomez,64,True,male
+200283,100035,morticia,60,True,female
+200284,100035,cut to:,57,True,unknown
+200285,100035,fester,34,True,male
+200286,100035,(continued),34,True,unknown
+200287,100035,abigail,33,True,female
+200288,100035,tully,18,True,female
+200289,100035,pugsley,15,True,male
+200290,100035,wednesday,14,True,female
+200291,100036,david,342,True,male
+200292,100036,elise,143,True,female
+200293,100036,harry,66,True,male
+200294,100036,richardson,62,True,male
+200295,100036,woman,49,True,female
+200296,100036,charlie,43,True,male
+200297,100036,thompson,32,True,male
+200298,100036,(beat),31,True,unknown
+200299,100036,mccrady,22,True,unknown
+200300,100037,buckaroo banzai,154,True,unknown
+200301,100037,perfect tommy,56,True,unknown
+200302,100037,penny priddy,54,True,unknown
+200303,100037,rawhide,41,True,male
+200304,100037,secretary of defense,38,True,unknown
+200305,100037,reno,36,True,male
+200306,100037,prof. hikita,34,True,unknown
+200307,100037,doctor lizardo,26,True,unknown
+200308,100037,president widmark,22,True,unknown
+200309,100038,wade,312,True,male
+200310,100038,cut to:,83,True,unknown
+200311,100038,jack,67,True,male
+200312,100038,margie,57,True,female
+200313,100038,lariviere,54,True,female
+200314,100038,jill,50,True,female
+200315,100038,pop,42,True,male
+200316,100038,rolfe,28,True,male
+200317,100038,twombley,20,True,unknown
+200318,100039,deacon,296,True,male
+200319,100039,fred,159,True,male
+200320,100039,matt,145,True,male
+200321,100039,ashley,74,True,female
+200322,100039,naomi,60,True,female
+200323,100039,mrs. lewis,48,True,unknown
+200324,100039,vic,39,True,male
+200325,100039,mr. lewis,35,True,unknown
+200326,100039,jake,34,True,male
+200327,100040,eliot,180,True,male
+200328,100040,anna,169,True,female
+200329,100040,paul,119,True,male
+200330,100040,jack,32,True,male
+200331,100040,tom,25,True,male
+200332,100040,beatrice,25,True,female
+200333,100040,(beat),17,True,unknown
+200334,100040,eliot (o.c.),12,True,unknown
+200335,100040,vincent,12,True,male
+200336,100041,martha,402,True,female
+200337,100041,agnes,239,True,female
+200338,100041,mother miriam,195,True,unknown
+200339,100041,dissolve to:,17,True,unknown
+200340,100041,leveau,16,True,female
+200341,100041,larry,8,True,male
+200342,100041,monsignor,7,True,male
+200343,100041,mama,7,True,female
+200344,100041,martha (v.o.),7,True,unknown
+200000,100000,kat,218,True,female
+200001,100000,patrick,184,True,male
+200002,100000,bianca,131,True,female
+200003,100000,cameron,104,True,male
+200004,100000,michael,89,True,male
+200005,100000,joey,62,True,male
+200006,100000,walter,54,True,male
+200007,100000,mandella,40,True,female
+200008,100000,miss perky,24,True,unknown
+200009,100001,music:,2,True,unknown
+200010,100001,music stops,2,True,unknown
+200011,100001,music starts,2,True,unknown
+200012,100001,writers,1,True,male
+200013,100001,cut from black,1,True,unknown
+200014,100001,genres,1,True,male
+200015,100001,music restarts,1,True,unknown
+200016,100001,sfx: thunder,1,True,unknown
+200017,100002,jacob,141,True,male
+200018,100002,malee,101,True,female
+200019,100002,leonard,84,True,male
+200020,100002,kenny,58,True,male
+200021,100002,grace,52,True,female
+200022,100002,gus,51,True,male
+200023,100002,ashley,36,True,female
+200024,100002,yacco,35,True,male
+200025,100002,rudy,34,True,male
+200026,100003,cole,220,True,male
+200027,100003,railly,176,True,male
+200028,100003,jeffrey,62,True,male
+200029,100003,astrophysicist,22,True,unknown
+200030,100003,fale,19,True,male
+200031,100003,dr. fletcher,14,True,unknown
+200032,100003,botanist,13,True,male
+200033,100003,microbiologist,12,True,male
+200034,100003,dr. mason,12,True,unknown
+200035,100004,solomon,183,True,male
+200036,100004,(continued),110,True,unknown
+200037,100004,epps,82,True,male
+200038,100004,ford,28,True,male
+200039,100004,bass,27,True,male
+200040,100004,brown,25,True,male
+200041,100004,mistress epps,23,True,unknown
+200042,100004,celeste,22,True,female
+200043,100004,epps (cont'd),22,True,unknown
+200044,100005,cut to:,236,True,unknown
+200045,100005,aron,97,True,male
+200046,100005,aron (cont'd),55,True,unknown
+200047,100005,int. canyon. day.,22,True,unknown
+200048,100005,kristi,20,True,female
+200049,100005,megan,20,True,female
+200050,100005,int. canyon. night.,9,True,unknown
+200051,100005,ext. desert. day.,9,True,unknown
+200052,100005,rana,9,True,female
+200053,100006,columbus,248,True,male
+200054,100006,cut to:,51,True,unknown
+200055,100006,sanchez,45,True,male
+200056,100006,marchena,35,True,male
+200057,100006,isabel,31,True,female
+200058,100006,pinzon,29,True,male
+200059,100006,arojaz,23,True,unknown
+200060,100006,fernando,22,True,male
+200061,100006,moxica,19,True,male
+200062,100007,jordy,163,True,male
+200063,100007,eddie,146,True,male
+200064,100007,emil,120,True,male
+200065,100007,nicolette,50,True,female
+200066,100007,oleg,49,True,male
+200067,100007,daphne,39,True,female
+200068,100007,hawkins,37,True,male
+200069,100007,korfin,32,True,unknown
+200070,100007,leon,31,True,male
+200071,100008,mike,252,True,male
+200072,100008,ed,112,True,male
+200073,100008,alex,70,True,male
+200074,100008,scarlet,61,True,female
+200075,100008,maggie,41,True,female
+200076,100008,julie,32,True,female
+200077,100008,mike (cont'd),30,True,unknown
+200078,100008,stan,23,True,male
+200079,100008,samantha,18,True,female
+200080,100009,genres,1,True,male
+200081,100009,writers,1,True,male
+200082,100010,continued,95,True,female
+200083,100010,bowman,82,True,male
+200084,100010,floyd,79,True,male
+200085,100010,poole,68,True,male
+200086,100010,hal,64,True,male
+200087,100010,pilot,19,True,male
+200088,100010,narrator,14,True,male
+200089,100010,child,13,True,male
+200090,100010,smyslov,13,True,male
+200091,100011,jackson,105,True,male
+200092,100011,adrian,80,True,male
+200093,100011,kate,46,True,female
+200094,100011,anheuser,40,True,unknown
+200095,100011,gordon,31,True,male
+200096,100011,noah,29,True,male
+200097,100011,laura,23,True,female
+200098,100011,yuri,22,True,male
+200099,100011,adrian (cont'd),21,True,unknown
+200100,100012,monty,201,True,male
+200101,100012,jakob,105,True,male
+200102,100012,(continued),96,True,unknown
+200103,100012,slattery,87,True,male
+200104,100012,naturelle,52,True,female
+200105,100012,mary,50,True,female
+200106,100012,kostya,47,True,male
+200107,100012,monty (cont'd),37,True,unknown
+200108,100012,mr. brogan,27,True,unknown
+200109,100013,selena,125,True,female
+200110,100013,jim,121,True,male
+200111,100013,frank,69,True,male
+200112,100013,henry,46,True,male
+200113,100013,hannah,36,True,female
+200114,100013,mitchell,25,True,male
+200115,100013,mark,16,True,male
+200116,100013,jones,16,True,male
+200117,100013,scientist,13,True,male
+200118,100014,will,303,True,male
+200119,100014,chet,196,True,male
+200120,100014,dwayne,184,True,male
+200121,100014,jay,61,True,male
+200122,100014,kate,38,True,female
+200123,100014,vaughn,28,True,male
+200124,100014,juicy,17,True,female
+200125,100014,(beat),16,True,unknown
+200126,100014,major,16,True,male
+200127,100015,rickey,178,True,male
+200128,100015,jack,173,True,male
+200129,100015,cut to:,133,True,unknown
+200130,100015,rachel,94,True,female
+200131,100015,smith,57,True,male
+200132,100015,durocher,30,True,female
+200133,100015,reese,25,True,male
+200134,100015,parrott,24,True,unknown
+200135,100015,walker,22,True,male
+200136,100016,archie,146,True,male
+200137,100016,mal,122,True,male
+200138,100016,omp,111,True,male
+200139,100016,meredith,94,True,female
+200140,100016,colin,94,True,male
+200141,100016,cut to,47,True,unknown
+200142,100016,liz,40,True,female
+200143,100016,colin (cont'd),15,True,unknown
+200144,100016,meredith (cont'd),13,True,unknown
+200145,100017,cates,336,True,female
+200146,100017,hammond,234,True,male
+200147,100017,elaine,72,True,female
+200148,100017,ganz,67,True,male
+200149,100017,transition.,33,True,unknown
+200150,100017,luther,27,True,male
+200151,100017,haden,24,True,male
+200152,100017,kehoe,21,True,male
+200153,100017,billy,19,True,male
+200154,100018,adam,329,True,male
+200155,100018,katie,85,True,female
+200156,100018,seth,77,True,male
+200157,100018,rachel,69,True,female
+200158,100018,edith,45,True,female
+200159,100018,adam (cont'd),35,True,unknown
+200160,100018,seth (cont'd),18,True,unknown
+200161,100018,phil,15,True,male
+200162,100018,(beat),14,True,unknown
+200163,100019,tom,406,True,male
+200164,100019,summer,223,True,female
+200165,100019,mckenzie,74,True,male
+200166,100019,paul,47,True,male
+200167,100019,rachel,42,True,female
+200168,100019,(beat),40,True,unknown
+200169,100019,tom (v.o.),35,True,unknown
+200170,100019,girl,23,True,female
+200171,100019,narrator,18,True,male
+200172,100021,welles,338,True,male
+200173,100021,max,58,True,male
+200174,100021,eddie,53,True,male
+200175,100021,dino velvet,52,True,unknown
+200176,100021,mrs christian,39,True,unknown
+200177,100021,amy,38,True,female
+200178,100021,mrs mathews,37,True,unknown
+200179,100021,longdale,32,True,unknown
+200180,100021,mary's voice,21,True,unknown
+200181,100022,9,41,True,unknown
+200182,100022,1,28,True,unknown
+200183,100022,5,22,True,unknown
+200184,100022,(cont'd),18,True,unknown
+200185,100022,7,17,True,unknown
+200186,100022,9 (cont'd),12,True,unknown
+200187,100022,6,10,True,unknown
+200188,100022,2 (cont'd),8,True,unknown
+200189,100022,1 (cont'd),7,True,unknown
+200190,100023,kaffee,556,True,male
+200191,100023,jo,209,True,male
+200192,100023,ross,129,True,male
+200193,100023,jessep,107,True,male
+200194,100023,sam,87,True,male
+200195,100023,cut to:,77,True,unknown
+200196,100023,dawson,54,True,male
+200197,100023,randolph,49,True,male
+200198,100023,kendrick,35,True,male
+200199,100024,abel,405,True,male
+200200,100024,anna,153,True,female
+200201,100024,andrew walsh,126,True,unknown
+200202,100024,a.d.a. lawrence,62,True,unknown
+200203,100024,abel (cont'd),57,True,unknown
+200204,100024,julian,41,True,male
+200205,100024,peter forente,37,True,unknown
+200206,100024,bill o'leary,36,True,unknown
+200207,100024,arnold kline,22,True,unknown
+200208,100025,billy,156,True,male
+200209,100025,officer pi sit,46,True,unknown
+200210,100025,nan,42,True,female
+200211,100025,cut to:,33,True,unknown
+200212,100025,jom,28,True,male
+200213,100025,kiaw,14,True,female
+200214,100025,dr. adi,12,True,unknown
+200215,100025,elyias,10,True,male
+200216,100025,tiffany,9,True,female
+200217,100026,lee (signing),13,True,unknown
+200218,100026,lee,11,True,male
+200219,100026,lee (signing) (cont'd),10,True,unknown
+200220,100026,evelyn (cont'd),9,True,unknown
+200221,100026,marcus (signing),8,True,unknown
+200222,100026,evelyn,8,True,female
+200223,100026,regan (signing),7,True,unknown
+200224,100026,black,4,True,male
+200225,100026,daughter (signing),3,True,unknown
+200226,100027,bob arctor,231,True,unknown
+200227,100027,jim barris,127,True,unknown
+200228,100027,continued:,114,True,unknown
+200229,100027,fred,100,True,male
+200230,100027,ernie luckman,84,True,unknown
+200231,100027,donna hawthorne,79,True,unknown
+200232,100027,charles freck,74,True,unknown
+200233,100027,hank,63,True,male
+200234,100027,medical technician #1,23,True,unknown
+200235,100028,larry,330,True,male
+200236,100028,danny,48,True,male
+200237,100028,don,38,True,male
+200238,100028,arthur,33,True,male
+200239,100028,voice,30,True,male
+200240,100028,sy,27,True,male
+200241,100028,sarah,27,True,female
+200242,100028,judy,24,True,female
+200243,100028,judith,22,True,female
+200244,100030,nico,207,True,male
+200245,100030,jackson,49,True,male
+200246,100030,zagon,40,True,male
+200247,100030,fox,38,True,male
+200248,100030,cut to:,19,True,unknown
+200249,100030,lukich,19,True,male
+200250,100030,branca,16,True,female
+200251,100030,father genarro,15,True,unknown
+200252,100030,watanabe,12,True,male
+200253,100031,luther,108,True,male
+200254,100031,seth,98,True,male
+200255,100031,kate,55,True,female
+200256,100031,richmond,40,True,male
+200257,100031,russell,39,True,male
+200258,100031,walter sullivan,34,True,unknown
+200259,100031,burton,31,True,male
+200260,100031,cut to:,23,True,unknown
+200261,100031,collin,15,True,male
+200262,100032,bud,179,True,male
+200263,100032,lindsey,163,True,female
+200264,100032,hippy,55,True,male
+200265,100032,coffey,46,True,male
+200266,100032,catfish,40,True,male
+200267,100032,cut to:,38,True,unknown
+200268,100032,one night,32,True,unknown
+200269,100032,monk,28,True,male
+200270,100032,jammer,15,True,male
+200271,100033,genres,1,True,male
+200272,100033,writers,1,True,male
+200273,100034,kaufman,242,True,male
+200274,100034,orlean,99,True,male
+200275,100034,laroche,92,True,male
+200276,100034,continued:,77,True,unknown
+200277,100034,donald,77,True,male
+200278,100034,kaufman (v.o.),33,True,unknown
+200279,100034,alice,23,True,female
+200280,100034,mckee,22,True,male
+200281,100034,orlean (v.o.),21,True,unknown
+200282,100035,gomez,64,True,male
+200283,100035,morticia,60,True,female
+200284,100035,cut to:,57,True,unknown
+200285,100035,fester,34,True,male
+200286,100035,(continued),34,True,unknown
+200287,100035,abigail,33,True,female
+200288,100035,tully,18,True,female
+200289,100035,pugsley,15,True,male
+200290,100035,wednesday,14,True,female
+200291,100036,david,342,True,male
+200292,100036,elise,143,True,female
+200293,100036,harry,66,True,male
+200294,100036,richardson,62,True,male
+200295,100036,woman,49,True,female
+200296,100036,charlie,43,True,male
+200297,100036,thompson,32,True,male
+200298,100036,(beat),31,True,unknown
+200299,100036,mccrady,22,True,unknown
+200300,100037,buckaroo banzai,154,True,unknown
+200301,100037,perfect tommy,56,True,unknown
+200302,100037,penny priddy,54,True,unknown
+200303,100037,rawhide,41,True,male
+200304,100037,secretary of defense,38,True,unknown
+200305,100037,reno,36,True,male
+200306,100037,prof. hikita,34,True,unknown
+200307,100037,doctor lizardo,26,True,unknown
+200308,100037,president widmark,22,True,unknown
+200309,100038,wade,312,True,male
+200310,100038,cut to:,83,True,unknown
+200311,100038,jack,67,True,male
+200312,100038,margie,57,True,female
+200313,100038,lariviere,54,True,female
+200314,100038,jill,50,True,female
+200315,100038,pop,42,True,male
+200316,100038,rolfe,28,True,male
+200317,100038,twombley,20,True,unknown
+200318,100039,deacon,296,True,male
+200319,100039,fred,159,True,male
+200320,100039,matt,145,True,male
+200321,100039,ashley,74,True,female
+200322,100039,naomi,60,True,female
+200323,100039,mrs. lewis,48,True,unknown
+200324,100039,vic,39,True,male
+200325,100039,mr. lewis,35,True,unknown
+200326,100039,jake,34,True,male
+200327,100040,eliot,180,True,male
+200328,100040,anna,169,True,female
+200329,100040,paul,119,True,male
+200330,100040,jack,32,True,male
+200331,100040,tom,25,True,male
+200332,100040,beatrice,25,True,female
+200333,100040,(beat),17,True,unknown
+200334,100040,eliot (o.c.),12,True,unknown
+,,,,,male

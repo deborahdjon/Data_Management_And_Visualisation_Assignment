@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+    /* set the CSS */
+
+    .line {
+        fill: none;
+        stroke: steelblue;
+        stroke-width: 2px;
+    }
+</style>
+<script>
+    var Heading = "Charactor Count";
+    var Y_Axis_Label = "% of Occurences";
+    var X_Axis_Label = "Year";
+    var DataFileName = "character_count_data_groupped.csv";
+    function getSubgroups() {
+        return ['female_character_percentage', 'male_character_percentage'];
+    }
+</script>
+
+<body>
+   
+    <!-- load the d3.js library -->
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script src ="graph.js"> </script>
+    <div id="my_dataviz"></div>
+</body>

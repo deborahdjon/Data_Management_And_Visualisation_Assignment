@@ -1,0 +1,25 @@
+character_id,movie_id,character_name,occourences,word_count,gender
+210000,101207,estelle,64,1053,female
+210001,101207,lefty,57,817,male
+210002,101207,jerry,33,655,male
+210003,101207,vijay,28,351,male
+210004,101207,george,27,432,male
+210005,101207,lacey,23,316,female
+210006,101208,maya,146,2015,female
+210007,101208,daniel,76,1125,male
+210008,101208,jessica,47,705,female
+210009,101208,daniel (cont'd),40,764,unknown
+210010,101208,bradley,30,385,male
+210011,101208,ammar,26,257,male
+210012,101208,justin,23,211,male
+210013,101208,george,22,509,male
+210014,101208,larry,18,238,male
+210015,101209,luke,195,1391,male
+210016,101209,keenan,123,1136,male
+210017,101209,sydney,99,1295,male
+210018,101209,janine,79,643,female
+210019,101209,luca,73,527,male
+210030,101210,bonnie hopps,33,305,unknown
+210031,101210,bellwether,32,600,unknown
+210032,101210,flash,20,74,male
+,,,,,male
