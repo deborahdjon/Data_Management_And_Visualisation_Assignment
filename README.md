@@ -1,13 +1,15 @@
 #  Analysing Gender Differences in Movie Scripts
 
-This project, conducted as part of a Data Management and Data Visualisations class assignment, aims to analyse and visualise the differences in gender representation of characters in movie scripts. The key finding is that male characters are twice as prominent as female characters in the analysed 1210 movies between 1920 and 2022, based on character count, name occurrence in script, and spoken words count.
+This project, conducted as part of a Data Management and Data Visualisations class assignment, aims to analyse and visualise the differences in gender representation of characters in movie scripts. The key finding is that male characters are twice as prominent as female characters in the analysed 1210 movies between 1920 and 2022, based on character count, name occurrence in script, and spoken word count.
 
-![[images/character_count.png]]
+<img src="images/character_count.png" alt="Your Image" width=30%><img src="images/character_occurrence_count" alt="Your Image" width=30%><img src="images/character_word_count" alt="Your Image" width=33%>
+
+
 
 The visualisations are available here: 
-[Character Count](https://djon.info/Data_Management_And_Visualisation_Assignment/Graphs/index_charector_count.html)
-[Character Occurrences Count](https://djon.info/Data_Management_And_Visualisation_Assignment/Graphs/index_charector_occurrence.html)
-[Character Word Count](https://djon.info/Data_Management_And_Visualisation_Assignment/Graphs/index_charector_word_count.html)
+- [Character Count](https://djon.info/Data_Management_And_Visualisation_Assignment/Graphs/index_charector_count.html)
+- [Character Occurrences Count](https://djon.info/Data_Management_And_Visualisation_Assignment/Graphs/index_charector_occurrence.html)
+- [Character Word Count](https://djon.info/Data_Management_And_Visualisation_Assignment/Graphs/index_charector_word_count.html)
 
 ## Process
 
